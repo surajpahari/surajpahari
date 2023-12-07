@@ -1,5 +1,5 @@
-# 💫 Hi!
-🌱 I’m currently learning ReactJs.
+# 💫 Hi! I'm Suraj Pahari
+🌱Harmonizing with the rhythmic cadence of commits.
 
 
 ## 🌐Connect With Me

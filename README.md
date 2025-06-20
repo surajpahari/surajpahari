@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Suraj Pahari
+# Hi! I'm Suraj Pahari
 🌱Harmonizing with the rhythmic cadence of commits.
 
 
